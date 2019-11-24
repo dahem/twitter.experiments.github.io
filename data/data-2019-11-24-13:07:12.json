@@ -1,0 +1,2582 @@
+{
+  "request_date": "2019-11-24-13:07:12",
+  "data": [
+    {
+      "created_at": "Sun Nov 24 16:06:46 +0000 2019",
+      "id": 1198634068264574976,
+      "id_str": "1198634068264574976",
+      "text": "RT @Pulmon_de_Susan: La candidatura de @rosamariabartra es peligrosa para este gobierno DE FACTO. \n\nSaben que la Dra. Bartra es una amenaza…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Pulmon_de_Susan",
+            "name": "El Pulmon de Susan",
+            "id": 281376868,
+            "id_str": "281376868",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              39,
+              55
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 916903730066444288,
+        "id_str": "916903730066444288",
+        "name": "Ysmelda",
+        "screen_name": "YsmeldaI",
+        "location": "",
+        "description": "Cualquier tonto puede saber, la clave  esta en  entender.    Albert Einstein",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 131,
+        "friends_count": 235,
+        "listed_count": 1,
+        "created_at": "Sun Oct 08 05:50:59 +0000 2017",
+        "favourites_count": 25141,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32350,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117965108288733184/I30FrgkQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117965108288733184/I30FrgkQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 01:54:47 +0000 2019",
+        "id": 1198419660116549632,
+        "id_str": "1198419660116549632",
+        "text": "La candidatura de @rosamariabartra es peligrosa para este gobierno DE FACTO. \n\nSaben que la Dra. Bartra es una amen… https://t.co/pw64EBAAX8",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                18,
+                34
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/pw64EBAAX8",
+              "expanded_url": "https://twitter.com/i/web/status/1198419660116549632",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 281376868,
+          "id_str": "281376868",
+          "name": "El Pulmon de Susan",
+          "screen_name": "Pulmon_de_Susan",
+          "location": "Somewhere in the Deep South",
+          "description": "I'm Santiago Labarte. All things USA/Peru. Spanglish. #CholoIlustrado. Conservatarian. #1A #2A. #PeriodismoDePeriodistas. \"El Estado Es Un MAL Necesario.\"",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 19188,
+          "friends_count": 2898,
+          "listed_count": 103,
+          "created_at": "Wed Apr 13 05:16:53 +0000 2011",
+          "favourites_count": 1697,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 138540,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/864327236660363264/xiK7sXxl_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/864327236660363264/xiK7sXxl_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/281376868/1574432884",
+          "profile_link_color": "ABB8C2",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 79,
+        "favorite_count": 241,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 79,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:06:37 +0000 2019",
+      "id": 1198634032931717120,
+      "id_str": "1198634032931717120",
+      "text": "RT @RecuerdosPeru: Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahora se…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              60,
+              76
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              90,
+              106
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1080224846007681024,
+        "id_str": "1080224846007681024",
+        "name": "Dany Carlos Morón Velásquez",
+        "screen_name": "MoronVelasquez",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 84,
+        "friends_count": 309,
+        "listed_count": 0,
+        "created_at": "Tue Jan 01 22:10:47 +0000 2019",
+        "favourites_count": 11449,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152577979240865793/ItxajGES_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152577979240865793/ItxajGES_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 13:40:23 +0000 2019",
+        "id": 1198597230036430849,
+        "id_str": "1198597230036430849",
+        "text": "Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahor… https://t.co/9lUXMDReeD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "hectorbecerrilr",
+              "name": "HÉCTOR BECERRIL R.",
+              "id": 525822471,
+              "id_str": "525822471",
+              "indices": [
+                41,
+                57
+              ]
+            },
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                71,
+                87
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9lUXMDReeD",
+              "expanded_url": "https://twitter.com/i/web/status/1198597230036430849",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 722522801165463553,
+          "id_str": "722522801165463553",
+          "name": "Memorex📺®",
+          "screen_name": "RecuerdosPeru",
+          "location": "Lima, Peru ",
+          "description": "#Memorex📺 - Tu canal digital de noticias, #Síguenos y estarás al día de la verdadera historia del país.",
+          "url": "https://t.co/9cp2nXndxr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9cp2nXndxr",
+                  "expanded_url": "http://bit.ly/2cusRXJ",
+                  "display_url": "bit.ly/2cusRXJ",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 40070,
+          "friends_count": 0,
+          "listed_count": 78,
+          "created_at": "Tue Apr 19 20:30:34 +0000 2016",
+          "favourites_count": 36772,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 37005,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/722522801165463553/1463326115",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 221,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:06:08 +0000 2019",
+      "id": 1198633912660037645,
+      "id_str": "1198633912660037645",
+      "text": "@RecuerdosPeru @hectorbecerrilr @rosamariabartra Puras ratas",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              15,
+              31
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              32,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198597230036430849,
+      "in_reply_to_status_id_str": "1198597230036430849",
+      "in_reply_to_user_id": 722522801165463553,
+      "in_reply_to_user_id_str": "722522801165463553",
+      "in_reply_to_screen_name": "RecuerdosPeru",
+      "user": {
+        "id": 954674496,
+        "id_str": "954674496",
+        "name": "Héctor Pérez",
+        "screen_name": "hp_walker",
+        "location": "Lima",
+        "description": "Jefe HSE",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 37,
+        "listed_count": 0,
+        "created_at": "Sun Nov 18 02:17:08 +0000 2012",
+        "favourites_count": 82,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 110,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000321537579/ad432c9ad0e81e1a4cd34a9d537efcd6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000321537579/ad432c9ad0e81e1a4cd34a9d537efcd6_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:05:46 +0000 2019",
+      "id": 1198633817935896579,
+      "id_str": "1198633817935896579",
+      "text": "RT @RecuerdosPeru: Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahora se…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              60,
+              76
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              90,
+              106
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1630843398,
+        "id_str": "1630843398",
+        "name": "LUCIFER🌹",
+        "screen_name": "Pusycat2017",
+        "location": "Lima, Peru",
+        "description": "Siempre  LUCIFER🌹 \n\n\n\n#SiguemeYTeSigo  👠💋🌹 \n 🐩🐈🐰\n       I ❤ (U)  🍷🌻🌸🌼 \n#YDaleU 💪😍   #VaosConTodoVizcarra ✌😈",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7301,
+        "friends_count": 4674,
+        "listed_count": 37,
+        "created_at": "Mon Jul 29 17:37:57 +0000 2013",
+        "favourites_count": 144863,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 204875,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/984200433639084040/UdHEDFZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/984200433639084040/UdHEDFZp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630843398/1544666405",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 13:40:23 +0000 2019",
+        "id": 1198597230036430849,
+        "id_str": "1198597230036430849",
+        "text": "Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahor… https://t.co/9lUXMDReeD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "hectorbecerrilr",
+              "name": "HÉCTOR BECERRIL R.",
+              "id": 525822471,
+              "id_str": "525822471",
+              "indices": [
+                41,
+                57
+              ]
+            },
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                71,
+                87
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9lUXMDReeD",
+              "expanded_url": "https://twitter.com/i/web/status/1198597230036430849",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 722522801165463553,
+          "id_str": "722522801165463553",
+          "name": "Memorex📺®",
+          "screen_name": "RecuerdosPeru",
+          "location": "Lima, Peru ",
+          "description": "#Memorex📺 - Tu canal digital de noticias, #Síguenos y estarás al día de la verdadera historia del país.",
+          "url": "https://t.co/9cp2nXndxr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9cp2nXndxr",
+                  "expanded_url": "http://bit.ly/2cusRXJ",
+                  "display_url": "bit.ly/2cusRXJ",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 40070,
+          "friends_count": 0,
+          "listed_count": 78,
+          "created_at": "Tue Apr 19 20:30:34 +0000 2016",
+          "favourites_count": 36772,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 37005,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/722522801165463553/1463326115",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 221,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:05:40 +0000 2019",
+      "id": 1198633795177582593,
+      "id_str": "1198633795177582593",
+      "text": "RT @RecuerdosPeru: Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahora se…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              60,
+              76
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              90,
+              106
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 125231299,
+        "id_str": "125231299",
+        "name": "Erasmo Alayo",
+        "screen_name": "Emo_Galeno",
+        "location": "Lima, Peru",
+        "description": "Galeno. Los más pequeños primero, siempre.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 564,
+        "friends_count": 1339,
+        "listed_count": 1,
+        "created_at": "Mon Mar 22 04:11:43 +0000 2010",
+        "favourites_count": 109848,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 144256,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193122569114857479/ooM3mI___normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193122569114857479/ooM3mI___normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125231299/1561852808",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 13:40:23 +0000 2019",
+        "id": 1198597230036430849,
+        "id_str": "1198597230036430849",
+        "text": "Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahor… https://t.co/9lUXMDReeD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "hectorbecerrilr",
+              "name": "HÉCTOR BECERRIL R.",
+              "id": 525822471,
+              "id_str": "525822471",
+              "indices": [
+                41,
+                57
+              ]
+            },
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                71,
+                87
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9lUXMDReeD",
+              "expanded_url": "https://twitter.com/i/web/status/1198597230036430849",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 722522801165463553,
+          "id_str": "722522801165463553",
+          "name": "Memorex📺®",
+          "screen_name": "RecuerdosPeru",
+          "location": "Lima, Peru ",
+          "description": "#Memorex📺 - Tu canal digital de noticias, #Síguenos y estarás al día de la verdadera historia del país.",
+          "url": "https://t.co/9cp2nXndxr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9cp2nXndxr",
+                  "expanded_url": "http://bit.ly/2cusRXJ",
+                  "display_url": "bit.ly/2cusRXJ",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 40070,
+          "friends_count": 0,
+          "listed_count": 78,
+          "created_at": "Tue Apr 19 20:30:34 +0000 2016",
+          "favourites_count": 36772,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 37005,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/722522801165463553/1463326115",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 221,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:04:23 +0000 2019",
+      "id": 1198633469045354500,
+      "id_str": "1198633469045354500",
+      "text": "@rosamariabartra Q haces en solidaridad nacional?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1198608553818222592,
+      "in_reply_to_status_id_str": "1198608553818222592",
+      "in_reply_to_user_id": 67978697,
+      "in_reply_to_user_id_str": "67978697",
+      "in_reply_to_screen_name": "rosamariabartra",
+      "user": {
+        "id": 1056327583229534209,
+        "id_str": "1056327583229534209",
+        "name": "Jaime Mendoza",
+        "screen_name": "jimmy96775052",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 37,
+        "friends_count": 919,
+        "listed_count": 0,
+        "created_at": "Sat Oct 27 23:31:36 +0000 2018",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 68,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190335911927730176/VB0rhxoL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190335911927730176/VB0rhxoL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:04:23 +0000 2019",
+      "id": 1198633468244176897,
+      "id_str": "1198633468244176897",
+      "text": "@RecuerdosPeru @hectorbecerrilr @rosamariabartra Más circo de ese par de basuras...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              15,
+              31
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              32,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198597230036430849,
+      "in_reply_to_status_id_str": "1198597230036430849",
+      "in_reply_to_user_id": 722522801165463553,
+      "in_reply_to_user_id_str": "722522801165463553",
+      "in_reply_to_screen_name": "RecuerdosPeru",
+      "user": {
+        "id": 4145334736,
+        "id_str": "4145334736",
+        "name": "carlos torres g.",
+        "screen_name": "kartell276",
+        "location": "Lima, Peru",
+        "description": "Un poco de joda🐷😭.... pero mucha verdad🙊",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1312,
+        "friends_count": 1643,
+        "listed_count": 2,
+        "created_at": "Sun Nov 08 23:54:54 +0000 2015",
+        "favourites_count": 77527,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716017785554477057/NGoaka-Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716017785554477057/NGoaka-Z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:03:41 +0000 2019",
+      "id": 1198633295627608064,
+      "id_str": "1198633295627608064",
+      "text": "RT @msalvadorp: @RecuerdosPeru @hectorbecerrilr @rosamariabartra Es pura finta, como en la lucha libre, fingen golpes, puyas. Pero si ingre…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "msalvadorp",
+            "name": "Miguel Salvador",
+            "id": 517936688,
+            "id_str": "517936688",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              16,
+              30
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              31,
+              47
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              48,
+              64
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4145334736,
+        "id_str": "4145334736",
+        "name": "carlos torres g.",
+        "screen_name": "kartell276",
+        "location": "Lima, Peru",
+        "description": "Un poco de joda🐷😭.... pero mucha verdad🙊",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1312,
+        "friends_count": 1643,
+        "listed_count": 2,
+        "created_at": "Sun Nov 08 23:54:54 +0000 2015",
+        "favourites_count": 77527,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716017785554477057/NGoaka-Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716017785554477057/NGoaka-Z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 15:24:09 +0000 2019",
+        "id": 1198623344620429312,
+        "id_str": "1198623344620429312",
+        "text": "@RecuerdosPeru @hectorbecerrilr @rosamariabartra Es pura finta, como en la lucha libre, fingen golpes, puyas. Pero… https://t.co/KYhkKUlQEE",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "RecuerdosPeru",
+              "name": "Memorex📺®",
+              "id": 722522801165463553,
+              "id_str": "722522801165463553",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "hectorbecerrilr",
+              "name": "HÉCTOR BECERRIL R.",
+              "id": 525822471,
+              "id_str": "525822471",
+              "indices": [
+                15,
+                31
+              ]
+            },
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                32,
+                48
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/KYhkKUlQEE",
+              "expanded_url": "https://twitter.com/i/web/status/1198623344620429312",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1198597230036430849,
+        "in_reply_to_status_id_str": "1198597230036430849",
+        "in_reply_to_user_id": 722522801165463553,
+        "in_reply_to_user_id_str": "722522801165463553",
+        "in_reply_to_screen_name": "RecuerdosPeru",
+        "user": {
+          "id": 517936688,
+          "id_str": "517936688",
+          "name": "Miguel Salvador",
+          "screen_name": "msalvadorp",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 72,
+          "friends_count": 636,
+          "listed_count": 0,
+          "created_at": "Wed Mar 07 21:04:38 +0000 2012",
+          "favourites_count": 8251,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2987,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": true,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:02:21 +0000 2019",
+      "id": 1198632958116188161,
+      "id_str": "1198632958116188161",
+      "text": "@RecuerdosPeru @hectorbecerrilr @rosamariabartra Una cosa es compañerismo, otra muy distinta complicidad...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              15,
+              31
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              32,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198597230036430849,
+      "in_reply_to_status_id_str": "1198597230036430849",
+      "in_reply_to_user_id": 722522801165463553,
+      "in_reply_to_user_id_str": "722522801165463553",
+      "in_reply_to_screen_name": "RecuerdosPeru",
+      "user": {
+        "id": 1434656395,
+        "id_str": "1434656395",
+        "name": "gian carlo",
+        "screen_name": "giancadenas",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 34,
+        "listed_count": 0,
+        "created_at": "Fri May 17 03:51:19 +0000 2013",
+        "favourites_count": 372,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2765,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188621877796847616/jGwA8gYv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188621877796847616/jGwA8gYv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434656395/1572224444",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:01:52 +0000 2019",
+      "id": 1198632838263975936,
+      "id_str": "1198632838263975936",
+      "text": "@Rafael49962477 @rosamariabartra EL CONGRESO LO CERRÓ EL MAMARRACHO DE MARTÍN VIZCARRA CORNEJO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Rafael49962477",
+            "name": "Rafa Gara 2904",
+            "id": 1052049621063753728,
+            "id_str": "1052049621063753728",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198620006633877504,
+      "in_reply_to_status_id_str": "1198620006633877504",
+      "in_reply_to_user_id": 1052049621063753728,
+      "in_reply_to_user_id_str": "1052049621063753728",
+      "in_reply_to_screen_name": "Rafael49962477",
+      "user": {
+        "id": 908445831736459265,
+        "id_str": "908445831736459265",
+        "name": "#Vizcarra EL INEPTO",
+        "screen_name": "RichardWR1965",
+        "location": "Lima, Peru",
+        "description": "HOY A DFERENCIA DEL GOLPE DE ALBERTO FUJIMORI LOS TERRORISTAS ESTAN EN PALACIO",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 51,
+        "friends_count": 274,
+        "listed_count": 1,
+        "created_at": "Thu Sep 14 21:42:19 +0000 2017",
+        "favourites_count": 9498,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14923,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179436537190211584/ey47nEFT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179436537190211584/ey47nEFT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/908445831736459265/1570034558",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:01:09 +0000 2019",
+      "id": 1198632654666706944,
+      "id_str": "1198632654666706944",
+      "text": "@Rafael49962477 @rosamariabartra YO VOTO POR ELLA 💪🏻💪🏻💪🏻",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Rafael49962477",
+            "name": "Rafa Gara 2904",
+            "id": 1052049621063753728,
+            "id_str": "1052049621063753728",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198620006633877504,
+      "in_reply_to_status_id_str": "1198620006633877504",
+      "in_reply_to_user_id": 1052049621063753728,
+      "in_reply_to_user_id_str": "1052049621063753728",
+      "in_reply_to_screen_name": "Rafael49962477",
+      "user": {
+        "id": 908445831736459265,
+        "id_str": "908445831736459265",
+        "name": "#Vizcarra EL INEPTO",
+        "screen_name": "RichardWR1965",
+        "location": "Lima, Peru",
+        "description": "HOY A DFERENCIA DEL GOLPE DE ALBERTO FUJIMORI LOS TERRORISTAS ESTAN EN PALACIO",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 51,
+        "friends_count": 274,
+        "listed_count": 1,
+        "created_at": "Thu Sep 14 21:42:19 +0000 2017",
+        "favourites_count": 9498,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14923,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179436537190211584/ey47nEFT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179436537190211584/ey47nEFT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/908445831736459265/1570034558",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:00:49 +0000 2019",
+      "id": 1198632573242613760,
+      "id_str": "1198632573242613760",
+      "text": "RT @OscarTorresnews: Mi entrevista a @rosamariabartra vía @tromepe. A ustedes gracias por leerme:\n\nhttps://t.co/oKACF6DiWK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OscarTorresnews",
+            "name": "Oscar Torres",
+            "id": 619396846,
+            "id_str": "619396846",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              37,
+              53
+            ]
+          },
+          {
+            "screen_name": "tromepe",
+            "name": "Diario Trome",
+            "id": 125737181,
+            "id_str": "125737181",
+            "indices": [
+              58,
+              66
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oKACF6DiWK",
+            "expanded_url": "https://trome.pe/actualidad/politica/rosa-bartra-con-este-gobierno-hay-mas-delincuencia-mas-muertos-y-menos-hospitales-entrevista-noticia/",
+            "display_url": "trome.pe/actualidad/pol…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 257087782,
+        "id_str": "257087782",
+        "name": "Ron Bart",
+        "screen_name": "ronxb",
+        "location": "Peru",
+        "description": "Universum",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 129,
+        "friends_count": 19,
+        "listed_count": 0,
+        "created_at": "Thu Feb 24 18:09:44 +0000 2011",
+        "favourites_count": 37637,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22708,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1125631209919242240/OZvCToY2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125631209919242240/OZvCToY2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257087782/1450975212",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 14:48:50 +0000 2019",
+        "id": 1198614459566231552,
+        "id_str": "1198614459566231552",
+        "text": "Mi entrevista a @rosamariabartra vía @tromepe. A ustedes gracias por leerme:\n\nhttps://t.co/oKACF6DiWK",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                16,
+                32
+              ]
+            },
+            {
+              "screen_name": "tromepe",
+              "name": "Diario Trome",
+              "id": 125737181,
+              "id_str": "125737181",
+              "indices": [
+                37,
+                45
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/oKACF6DiWK",
+              "expanded_url": "https://trome.pe/actualidad/politica/rosa-bartra-con-este-gobierno-hay-mas-delincuencia-mas-muertos-y-menos-hospitales-entrevista-noticia/",
+              "display_url": "trome.pe/actualidad/pol…",
+              "indices": [
+                78,
+                101
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 619396846,
+          "id_str": "619396846",
+          "name": "Oscar Torres",
+          "screen_name": "OscarTorresnews",
+          "location": "Lima",
+          "description": "Única cuenta oficial de Óscar Torres. Periodista 🇵🇪.",
+          "url": "https://t.co/O57czDGdKx",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/O57czDGdKx",
+                  "expanded_url": "https://m.facebook.com/oscartorres40paginaoficial/",
+                  "display_url": "m.facebook.com/oscartorres40p…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2323,
+          "friends_count": 595,
+          "listed_count": 21,
+          "created_at": "Tue Jun 26 20:23:00 +0000 2012",
+          "favourites_count": 6396,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 24014,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1192898184357564427/LFKKhsGN_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192898184357564427/LFKKhsGN_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/619396846/1421792110",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 16:00:18 +0000 2019",
+      "id": 1198632441507913729,
+      "id_str": "1198632441507913729",
+      "text": "@RecuerdosPeru @hectorbecerrilr @rosamariabartra Pura finta",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              15,
+              31
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              32,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1198597230036430849,
+      "in_reply_to_status_id_str": "1198597230036430849",
+      "in_reply_to_user_id": 722522801165463553,
+      "in_reply_to_user_id_str": "722522801165463553",
+      "in_reply_to_screen_name": "RecuerdosPeru",
+      "user": {
+        "id": 232727461,
+        "id_str": "232727461",
+        "name": "@pavelg",
+        "screen_name": "pavelgamarra",
+        "location": "chiclayo peru",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 318,
+        "listed_count": 0,
+        "created_at": "Sat Jan 01 03:16:23 +0000 2011",
+        "favourites_count": 5961,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2230,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1124002334156234753/cbtgDN_-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124002334156234753/cbtgDN_-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 15:59:45 +0000 2019",
+      "id": 1198632302554886144,
+      "id_str": "1198632302554886144",
+      "text": "@rosamariabartra @AlbertoZevallo5 @jdealthaus @alvarosarco @CMHNTM @gouden20 @PasquinDeM @blogcyh @tromepe… https://t.co/Hyc26FT74E",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "AlbertoZevallo5",
+            "name": "Alberto Zevallos #ContraElGolpe",
+            "id": 701800489646759937,
+            "id_str": "701800489646759937",
+            "indices": [
+              17,
+              33
+            ]
+          },
+          {
+            "screen_name": "jdealthaus",
+            "name": "Jaime de Althaus",
+            "id": 97446514,
+            "id_str": "97446514",
+            "indices": [
+              34,
+              45
+            ]
+          },
+          {
+            "screen_name": "alvarosarco",
+            "name": "Álvaro Sarco 🇵🇪",
+            "id": 136649244,
+            "id_str": "136649244",
+            "indices": [
+              46,
+              58
+            ]
+          },
+          {
+            "screen_name": "CMHNTM",
+            "name": "Con Mis Hijos No Te Metas",
+            "id": 801463544126570500,
+            "id_str": "801463544126570500",
+            "indices": [
+              59,
+              66
+            ]
+          },
+          {
+            "screen_name": "gouden20",
+            "name": "Orjan Б",
+            "id": 728426501230764032,
+            "id_str": "728426501230764032",
+            "indices": [
+              67,
+              76
+            ]
+          },
+          {
+            "screen_name": "PasquinDeM",
+            "name": "Pasquín De Miércoles",
+            "id": 729458728274169857,
+            "id_str": "729458728274169857",
+            "indices": [
+              77,
+              88
+            ]
+          },
+          {
+            "screen_name": "blogcyh",
+            "name": "Catarsis y Harakiri",
+            "id": 331854578,
+            "id_str": "331854578",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "screen_name": "tromepe",
+            "name": "Diario Trome",
+            "id": 125737181,
+            "id_str": "125737181",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Hyc26FT74E",
+            "expanded_url": "https://twitter.com/i/web/status/1198632302554886144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1198615745514688517,
+      "in_reply_to_status_id_str": "1198615745514688517",
+      "in_reply_to_user_id": 67978697,
+      "in_reply_to_user_id_str": "67978697",
+      "in_reply_to_screen_name": "rosamariabartra",
+      "user": {
+        "id": 2800725400,
+        "id_str": "2800725400",
+        "name": "Marco PV",
+        "screen_name": "MarcoPadillaV",
+        "location": "Peru",
+        "description": "altera el orden de lo establecido ///\n📸. easyascanbe // próximamente @xlashuevases",
+        "url": "https://t.co/za0W2mUN47",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/za0W2mUN47",
+                "expanded_url": "http://bit.ly/rutinasonora",
+                "display_url": "bit.ly/rutinasonora",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 145,
+        "listed_count": 0,
+        "created_at": "Thu Oct 02 19:56:41 +0000 2014",
+        "favourites_count": 1105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 417,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174175413414707200/0Ch0lDKV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174175413414707200/0Ch0lDKV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2800725400/1563288518",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Sun Nov 24 15:59:44 +0000 2019",
+      "id": 1198632299597832192,
+      "id_str": "1198632299597832192",
+      "text": "RT @RecuerdosPeru: Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahora se…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RecuerdosPeru",
+            "name": "Memorex📺®",
+            "id": 722522801165463553,
+            "id_str": "722522801165463553",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "hectorbecerrilr",
+            "name": "HÉCTOR BECERRIL R.",
+            "id": 525822471,
+            "id_str": "525822471",
+            "indices": [
+              60,
+              76
+            ]
+          },
+          {
+            "screen_name": "rosamariabartra",
+            "name": "Rosa María Bartra",
+            "id": 67978697,
+            "id_str": "67978697",
+            "indices": [
+              90,
+              106
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2721859829,
+        "id_str": "2721859829",
+        "name": "Omar Jesus Tasayco S",
+        "screen_name": "OmarTasayco",
+        "location": "Lima, Perú ",
+        "description": "Justiciero, adicto a la lectura, tecnología y geopolítica, Jedi",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 135,
+        "friends_count": 366,
+        "listed_count": 25,
+        "created_at": "Wed Jul 23 15:55:25 +0000 2014",
+        "favourites_count": 1633,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71143,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507987791142486016/oj0BXqOb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507987791142486016/oj0BXqOb_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2721859829/1409932596",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 24 13:40:23 +0000 2019",
+        "id": 1198597230036430849,
+        "id_str": "1198597230036430849",
+        "text": "Ahora la bronca es entre Hector Becerril @hectorbecerrilr y Rosa Barta @rosamariabartra, después de tanto amor ahor… https://t.co/9lUXMDReeD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "hectorbecerrilr",
+              "name": "HÉCTOR BECERRIL R.",
+              "id": 525822471,
+              "id_str": "525822471",
+              "indices": [
+                41,
+                57
+              ]
+            },
+            {
+              "screen_name": "rosamariabartra",
+              "name": "Rosa María Bartra",
+              "id": 67978697,
+              "id_str": "67978697",
+              "indices": [
+                71,
+                87
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9lUXMDReeD",
+              "expanded_url": "https://twitter.com/i/web/status/1198597230036430849",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 722522801165463553,
+          "id_str": "722522801165463553",
+          "name": "Memorex📺®",
+          "screen_name": "RecuerdosPeru",
+          "location": "Lima, Peru ",
+          "description": "#Memorex📺 - Tu canal digital de noticias, #Síguenos y estarás al día de la verdadera historia del país.",
+          "url": "https://t.co/9cp2nXndxr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/9cp2nXndxr",
+                  "expanded_url": "http://bit.ly/2cusRXJ",
+                  "display_url": "bit.ly/2cusRXJ",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 40070,
+          "friends_count": 0,
+          "listed_count": 78,
+          "created_at": "Tue Apr 19 20:30:34 +0000 2016",
+          "favourites_count": 36772,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 37005,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/765358739167801345/J2i4_RTf_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/722522801165463553/1463326115",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 221,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    }
+  ]
+}
