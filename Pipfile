@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 TwitterAPI = "==2.5.10"
 python-dotenv = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"

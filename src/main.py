@@ -1,40 +1,26 @@
 import os
-from TwitterAPI import TwitterAPI
-from dotenv import load_dotenv
-import datetime
+import time
+from twitter import save_twiter_request 
+import csv
 
-load_dotenv()
-now = datetime.datetime.now().strftime("%Y-%m-%d-%H:%M:%S")
+def get_key_list():
+    ans = []
+    with open('./searchWords.csv') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            ans.append(row['keylist'])
+    return ans
 
-SEARCH_TERM = 'rosamariabartra'
-
-KEY = os.getenv("KEY")
-SECRET = os.getenv("SECRET")
-TOKEN_KEY = os.getenv("TOKEN_KEY")
-TOKEN_SECRET = os.getenv("TOKEN_SECRET")
-
-
-api = TwitterAPI(KEY,
-                 SECRET,
-                 TOKEN_KEY,
-                 TOKEN_SECRET)
-
-result = api.request('search/tweets', {'q': SEARCH_TERM})
-saneazed_result = {"request_date": now, "data": []}
-for item in result:
-    saneazed_result['data'].append(item)
-
-print('\nQUOTA: %s' % result.get_quota())
-
-dirname = os.path.dirname(__file__)
-print(dirname)
+def main():
+    key_list = get_key_list()
+    len_keys = len(key_list)
+    ind = 0 
+    TIME_IN_SECONDS = 60
+    while True:
+        save_twiter_request(key_list[ind % len_keys])
+        ind += 1 
+        time.sleep(TIME_IN_SECONDS)
 
 
-def saveJson():
-    import io
-    import json
-    with io.open('./data/data-{}.json'.format(now), 'w', encoding='utf-8') as f:
-        f.write(json.dumps(saneazed_result, ensure_ascii=False, indent=2))
-
-
-saveJson()
+if __name__ == '__main__':
+    main()
