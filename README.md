@@ -1,6 +1,14 @@
 # api twitter get data
-
-to execute ```python src/main.py``` 
+insall and run
+ ```sh
+tener python 3.5 para arriba
+sudo apt install python3-pip 
+pip3 install virtualenv
+pipenv shell         ----start env 
+pipenv install		--- install dependencias
+cp .env.example .env   --  poner las variables de twiter en .env
+python src/main.py .  ejecutar
+ ``` 
 
 # search words
 
