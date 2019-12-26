@@ -1,4 +1,3 @@
-
 import os
 from TwitterAPI import TwitterAPI
 from dotenv import load_dotenv

@@ -15,7 +15,7 @@ def main():
     key_list = get_key_list()
     len_keys = len(key_list)
     ind = 0 
-    TIME_IN_SECONDS = 60
+    TIME_IN_SECONDS = 5*60
     while True:
         save_twiter_request(key_list[ind % len_keys])
         ind += 1 
