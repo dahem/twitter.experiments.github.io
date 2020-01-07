@@ -9,6 +9,7 @@ verify_ssl = true
 TwitterAPI = "==2.5.10"
 python-dotenv = "*"
 pandas = "*"
+tweepy = "*"
 
 [requires]
 python_version = "3.5"
